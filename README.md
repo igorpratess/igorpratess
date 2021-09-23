@@ -13,7 +13,6 @@
 ##### Languages and Tools:
 <div style='display:inline-block'>
   <img align="center" alt"Javascript" height="30" width"40" src="https://user-images.githubusercontent.com/39813384/127778162-934fe871-6563-4a69-ad7e-ee2bd7f47ade.png">
-  <img align="center" alt"Typescript" height="30" width"40" src="https://user-images.githubusercontent.com/39813384/127778173-b78c289d-59b4-4b4e-bb11-7b6f77ec328a.png">
   <img align="center" alt"HTML" height="30" width"40" src="https://user-images.githubusercontent.com/39813384/127778171-4d6233eb-8736-4c67-878e-2c8a5ecb205e.png">
   <img align="center" alt"CSS" height="30" width"40" src="https://user-images.githubusercontent.com/39813384/127778172-35b31104-0131-48ad-8d30-905aaf1e09e7.png">
   <img align="center" alt"React" height="30" width"40" src="https://user-images.githubusercontent.com/39813384/127778175-87e54090-ffaa-40e0-bdd0-88608420c8de.png">
